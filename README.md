@@ -1,7 +1,7 @@
 # Web3Infra Hackathon
 2022 年 9 月 2 日至 10 月 10 日, 由 everFinance 发起的 Web3Infra Hackathon 大赛对所有开发者开放。   
-此次 hackathon 主要目的是为了激励优秀的产品和前端开发者构建 web3 产品应用。   
-基于  everFinance 开发的 Arseeding 为用户提供了一个易用的去中心化存储服务，开发者可以使用 web2 的开发模式来开发 web3 应用。   
+此次 hackathon 主要目的是为了激励优秀的产品和前端开发者构建 web3 应用。   
+基于 everFinance 开发的 Arseeding 提供了一个易用的去中心化存储服务，开发者可以使用 web2 的开发模式来开发 web3 应用。   
 这里有一个简单的 [demo](https://demo.web3infra.dev) 可以快速体验基于 Arseeding 构建的存储产品。
 
 ## 活动时间
