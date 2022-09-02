@@ -38,7 +38,7 @@ Community members are free to tip their favorite project later. Each person has 
 - PermaDAO
 - Mask Network
 - Conflux
-- PaltON
+- PlatON
 
 
 
