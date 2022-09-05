@@ -8,7 +8,7 @@ Refer to the demo below as an example: https://demo.web3infra.dev
 - **Announcement：** September 2th
 - **Projects Submission:** September 2th - October 10th
 - **Community Voting:** October 10th - October 12th
-- **Judge Voting:** Octover 10th - October 12th
+- **Judge Voting:** October 10th - October 12th
 - **Final Result Announcement:** October 13th
 
 ## Prizes
