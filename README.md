@@ -1,5 +1,5 @@
 # Web3Infra Hackathon
-From September 2nd to October 10th 2022, The Web3Infra Hackathon, launched by everFinance, is open to all developers.   
+From September 2nd to October 10th 2022, The Web3Infra Hackathon, launched by PermaDao, is open to all developers.   
 Arweave is not only a service limited to professional developers, but also is extremely convenient for general users to store permanently. A variety of storage-related products can be developed based on Arseeding developed by everFinance. Users can experience a convenient storage service via Web3infra. Developers are welcome to make upgrades and innovations on the basis of existing demos, without theme limitation. As the Web3Infura hackathon is designed to engage products and front-end developers in our application building, there is no barrier for web2 developers.   
 Refer to the demo below as an example: https://demo.web3infra.dev   
 [Web3infra Hackathon 中文](./zh/README_ZH.md)
